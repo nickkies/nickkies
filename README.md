@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 -->
- [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkies)](https://github.com/NickKies)
+ [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkies&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/NickKies)
