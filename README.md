@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"> 
 </div>
 <br />
-<div align=right>
+
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkies&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/NickKies)
-</div>
+
