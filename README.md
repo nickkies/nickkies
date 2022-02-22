@@ -16,6 +16,7 @@
   <br />
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&style=plastic">
+  <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&style=plastic">
@@ -37,6 +38,7 @@
   
   <img src="https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/openlayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white&style=plastic">
   <br />
   
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&style=plastic">
