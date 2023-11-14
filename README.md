@@ -2,9 +2,11 @@
 
 <div align=left>
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white&style=plastic">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&style=plastic">
   <br />
   
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic">  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=plastic">
