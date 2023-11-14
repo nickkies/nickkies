@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=hello,there🦀&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=THE%20WEB%20THIRD%20WAVE🦀&fontSize=50&animation=twinkling)
 
 <div align=left>
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white&style=plastic">
