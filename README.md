@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white&style=plastic">
+  <a href="https://www.digitalocean.com/?refcode=9fda6806693a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img style="width: 66px;" src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
   <br />
   
   <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white&style=plastic">
