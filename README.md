@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic">
   <br />
 
-  <img src="https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=apple&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/MacBook-000000?style=for-the-badge&logo=apple&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/nintendo switch-E60012?style=for-the-badge&logo=nintendo switch&logoColor=white&style=plastic">  
 </div>
 
