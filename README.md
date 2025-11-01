@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&style=plastic">
-  <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=apache maven&logoColor=white&style=plastic">
   <br />
 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic">
@@ -81,8 +80,6 @@
   
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=plastic">
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled components&logoColor=white&style=plastic">
-  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=ant design&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&style=plastic">
   <br />
   
