@@ -91,9 +91,6 @@
   <img src="https://img.shields.io/badge/MacBook-000000?style=for-the-badge&logo=apple&logoColor=white&style=plastic">
 </div>
 
----
-
-
 <!--[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkies&layout=compact&show_icons=true&theme=radical&count_private=false)](https://github.com/NickKies)-->
 
 
